@@ -1,0 +1,37 @@
+40 pin wide DIL socket
+24 pin wide DIL socket
+28 pin wide DIL socket
+14 pin narrow DIL socket
+
+
+Z80 CPU
+
+27C64 EPROM
+MC68B50
+
+74LS32 (2)
+74LS04 (2)
+74HCT04
+62256 RAM
+
+
+7.3728 Mhz Xtal
+
+22pf ceramic cap
+1M resitor
+1k resistor
+2k2 resistor
+3k3 resistor
+
+SPST Push Switch
+
+
+784C0008PEG
+BS62LV256
+74HCT00
+74HCT14
+74HCT04
+74HCT32
+74HCT02
+74HCT57
+74HCT08
